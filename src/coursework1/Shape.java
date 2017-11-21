@@ -41,19 +41,3 @@ public abstract class Shape implements Serializable{
 }
 
 
-/*   final int _numberOfSides;
-   final String _name;
-   
-   public Shape(int numberOfSides, String name){
-       _numberOfSides = numberOfSides;
-       _name = name;
-       
-   }
- 
-   public void displayDescription(){
-       System.out.println("I'm a shape name " + _name);
-   }
-    
-    
-}
-*/

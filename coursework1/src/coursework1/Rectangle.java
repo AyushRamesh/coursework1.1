@@ -15,7 +15,7 @@ public class Rectangle extends TwoDShape {
     private final double _width;
 
     public Rectangle(String name, double height, double width) {
-        super(4, name);
+        super(name, 4);
         _height = height;
         _width = width;
 
