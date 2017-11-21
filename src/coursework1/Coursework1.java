@@ -9,7 +9,7 @@ import java.io.IOException;
 
 
 /**
- *
+ *........
  * @author M00558529
  */
 public class Coursework1 {
@@ -19,7 +19,8 @@ public class Coursework1 {
         // TODO code application logic here
 
         if (args.length == 0) {
-            System.out.println("Invalid arguments provided. Arguments: ");
+            System.out.println("Invalid arguments provided. Arguments: "); //prints the following statements
+ 
             System.out.println(FORMAT);
             return;
         }
